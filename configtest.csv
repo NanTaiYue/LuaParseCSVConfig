@@ -1,0 +1,5 @@
+序号id,姓名,年龄,性别（1-男，2-女）,电话号码,家庭住址,银行卡(银行类型-卡数量;银行类型-卡数量;)
+id,name,age,sex,phone,address,cardinfo
+Number,String,Number,Number,String,String,String
+1,张三,20,1,123456,元盒岛,1-2;2-3;3-4
+2,王姑娘,18,2,456789,无量山,1-2;2-3;3-4
